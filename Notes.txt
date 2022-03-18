@@ -1,2 +1,4 @@
 Name
 Surname
+Female/Male
+Status
